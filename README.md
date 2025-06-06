@@ -1,17 +1,13 @@
 Nom : Lilia Ould Hocine
+Nom : OULD ALI MOULOUD
 Nom : Marc Gauthier
 Nom : Yarijey
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-
-
-
-janiel
-=======
 Nom : Meryem Bouzmane
->>>>>>> 6bb7cb715029968b304e2ee3f26ac09312e4943b
-=======
 Nom : Meryem Bouzmane
->>>>>>> 6bb7cb715029968b304e2ee3f26ac09312e4943b
+Nom : Igor Volosyanko\n
+Nom : Meryem Bouzmane
+Nom: Jessica St-Pierre Gagne
+Nom: Imane El mostaqim
+Nom : Naomi J. Momasso
+Nom : Adam Allouch
+Nom : Janie L
